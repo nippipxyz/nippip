@@ -1,5 +1,6 @@
 <!-- ![Nippip, Autonomous Being Framework](media/nippip.jpg) -->
- <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/aa497a83-3ee8-48e9-b688-5a34a6fbd3c4" />
+<img width="2083" height="2083" alt="image" src="https://github.com/user-attachments/assets/10949b98-7ef1-452b-a57f-97f61b3925be" />
+
 
 
 # Nippip: The Anti-System Autonomous Entity Framework
