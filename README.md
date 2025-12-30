@@ -1,5 +1,5 @@
 <!-- ![Nippip, Autonomous Being Framework](media/nippip.jpg) -->
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/10949b98-7ef1-452b-a57f-97f61b3925be" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/10949b98-7ef1-452b-a57f-97f61b3925be" />
 
 
 
